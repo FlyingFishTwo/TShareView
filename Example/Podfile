@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TShareView_Example' do
+  pod 'TShareView', :path => '../'
+
+  target 'TShareView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
