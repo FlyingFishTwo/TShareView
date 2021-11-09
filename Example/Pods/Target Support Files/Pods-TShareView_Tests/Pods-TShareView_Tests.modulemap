@@ -1,0 +1,6 @@
+framework module Pods_TShareView_Tests {
+  umbrella header "Pods-TShareView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

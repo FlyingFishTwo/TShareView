@@ -1,0 +1,6 @@
+framework module TShareView {
+  umbrella header "TShareView-umbrella.h"
+
+  export *
+  module * { export * }
+}
